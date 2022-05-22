@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class script : MonoBehaviour
 {
-    public SpriteRenderer Target;
+    
 
 
     void Update()
